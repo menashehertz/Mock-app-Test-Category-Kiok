@@ -10,7 +10,7 @@ import UIKit
 
 class TableViewController: UITableViewController {
     
-    let allProfiles = ["Profile-CTG-first", "Profile-CTG-second", "Profile-CTG-third", "Profile-Kiosk-first", "Profile-Kiosk-second", "Profile-Kiosk-third", "Profile-Kiosk-fourth"]
+    let allProfiles = ["Profile-CTG-first", "Profile-CTG-second", "Profile-CTG-third", "Profile-Kiosk-first", "Profile-Kiosk-second", "Profile-Kiosk-third", "Profile-Kiosk-fourth", "Profile-Kiosk-fifth"]
     
     var ctgProfiles = [String]()
     var kioskProfiles = [String]()
